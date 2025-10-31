@@ -1,0 +1,7 @@
+__pycache__
+data*
+model*
+test*
+whiteboard*
+debug.py
+
